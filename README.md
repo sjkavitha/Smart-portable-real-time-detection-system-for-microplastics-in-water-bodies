@@ -24,7 +24,7 @@ This project presents a Low-Cost Portable Microplastic Detection System that est
 
 ## 🔄 Workflow
 
-<img width="500" height="880" alt="Workflow" src="https://github.com/user-attachments/assets/3a6b3bb9-252b-4c34-bbc3-08ae7b5628f3" />
+<img width="500" height="700" alt="Workflow" src="https://github.com/user-attachments/assets/3a6b3bb9-252b-4c34-bbc3-08ae7b5628f3" />
 
 
 ---
