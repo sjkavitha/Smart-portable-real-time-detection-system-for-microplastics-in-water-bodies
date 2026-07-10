@@ -1,4 +1,4 @@
-# 🌊 Low-Cost Portable Microplastic Detection System
+# 🌊 Smart portable real time detection system for microplastics in water bodies
 
  A low-cost and portable microplastic detection system using Optical Sensing, Embedded Systems, and Image Processing for real-time water quality monitoring.
 
