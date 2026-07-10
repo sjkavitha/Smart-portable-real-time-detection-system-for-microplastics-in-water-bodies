@@ -24,9 +24,8 @@ This project presents a Low-Cost Portable Microplastic Detection System that est
 
 ## 🔄 Workflow
 
-p align=center
-  img src=Imagesworkflow.png alt=Workflow width=420
-p
+<img width="1122" height="1402" alt="Workflow" src="https://github.com/user-attachments/assets/3a6b3bb9-252b-4c34-bbc3-08ae7b5628f3" />
+
 
 ---
 
@@ -110,14 +109,6 @@ The developed prototype successfully estimates
 - Detection of particles below 100 µm
 - Deep learning-based particle classification
 - Mobile application for remote monitoring
-
----
-
-## 📸 Prototype
-
-p align=center
-  img src=ImagesPrototype.jpg alt=Prototype width=420
-p
 
 ---
 
