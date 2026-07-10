@@ -101,7 +101,6 @@ The developed prototype successfully estimates
 - Laboratory demonstrations
 
 ---
-
 ## 🚀 Future Scope
 
 - IoT-based remote monitoring
